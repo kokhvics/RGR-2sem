@@ -1,0 +1,16 @@
+﻿  RGR.cpp
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(15,6): warning C4273: CreatePen: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(3852,26): message : см. предыдущее определение "CreatePen"
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(33,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(34,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(45,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(46,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(272,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(272,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(273,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(273,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(274,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(274,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(275,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\STUDY\Поликек\RGR-2sem\RGR-2sem\RGR.cpp(275,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  RGR-2sem.vcxproj -> D:\STUDY\Поликек\RGR-2sem\x64\Debug\RGR-2sem.exe
